@@ -1,0 +1,29 @@
+
+[
+    {
+        "song_Name": "Loneliness",
+        "tempo": 120,
+        "key": "Eminor",
+        "main_Instruments":["Voice","Guitar"],
+        "completed": false
+    },
+    {
+        "song_Name": "Falling",
+        "tempo": 110,
+        "key": "Aminor",
+        "main_Instruments":["Voice","Piano"],
+        "completed": true
+
+        
+    },
+    {
+        "song_Name": "Town",
+        "tempo": 90,
+        "key": "Gminor/BflatMajor",
+        "main_Instruments":["Voice","Synth"],
+        "completed": false
+
+    }
+
+]
+
