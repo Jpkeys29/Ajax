@@ -5,7 +5,7 @@
         "tempo": 120,
         "key": "Eminor",
         "main_Instruments":["Voice","Guitar"],
-        "completed": false
+        "completed": true
     },
     {
         "song_Name": "Falling",
@@ -24,6 +24,5 @@
         "completed": false
 
     }
-
 ]
 
