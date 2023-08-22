@@ -12,7 +12,7 @@ btn.addEventListener('click',(e)=>{
     let tempUrl = `${url}symbols=${searchTerm}&interval=60m&range=1d`;
     fetch(tempUrl,{
         headers: {
-            'x-rapidapi-key' : '88e3695b8bmsh42ce67b8bf7a723p1d4abcjsn862b3172e524',
+            'x-rapidapi-key' : '',
             'x-rapidapi-host': 'yh-finance.p.rapidapi.com'
         }
     })
