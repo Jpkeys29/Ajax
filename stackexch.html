@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Stack Exchange</title>        
+    </head>
+    <h2>Stack Exchange ⏰</h2>
+    <style>
+        .*{
+            box-sizing: border-box;
+        }
+        .tag{
+            padding:5px;
+            margin:10px;
+            font-style: italic;
+            border: 1px solid #ddd;
+            display: inline-block;
+        }
+        .tag::before{
+            content: '🪖';
+        }
+        .box{
+            padding: 8px;
+            border: 1px dotted #ddd;
+            border-radius: 25px;
+
+        }
+        .topTitle{
+            font-size: 1.1em;
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+    </style>
+    <body>
+        <button class="btn">📠</button>
+        <div class="output"></div>
+        <input type="text" class="val">
+        <script src="stackexch.js"></script>
+        
+    </body>
+</html>
