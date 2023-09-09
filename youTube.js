@@ -1,4 +1,4 @@
-const apiKey = 'AIzaSyDafONTDV61i5fpfIjtrerGZkAfsmsRjpU'
+const apiKey = ''
 const baseUrl = 'https://www.googleapis.com/youtube/v3'
 // GET https://youtube.googleapis.com/youtube/v3/search?key=[YOUR_API_KEY] HTTP/1.1
 // https://youtube.googleapis.com/youtube/v3/search?part=snippet&key=[YOUR_API_KEY] HTTP/1.1
